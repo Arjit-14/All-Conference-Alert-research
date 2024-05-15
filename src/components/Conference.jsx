@@ -29,7 +29,7 @@ const Conference = () => {
       </div>
       <div className='flex gap-1 items-center'>
         <span className='text-blue-400 text-sm'>Deadline for submission / Apply:</span>
-        <span className='text-xs'>2024-05-14</span>
+        <span className='text-xs'>2024-05-17</span>
       </div>
       <div className='flex gap-1 items-center'>
         <span className='text-blue-400 text-sm'>Conference Start Date:</span>
